@@ -26,7 +26,7 @@ SECRET_KEY = 'ozo)ip&f5z-$h==c2cg*h@gz6@hp5fo2$akf8z^kv_fm*jsz@+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
